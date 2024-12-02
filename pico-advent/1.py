@@ -9,5 +9,3 @@ print("This is my piko blinkink")
 # for i in range(10):
 #     led.toggle()
 #     sleep(0.5)
-
-
